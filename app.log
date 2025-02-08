@@ -1,0 +1,144 @@
+2025-02-05 21:39:18,712 [INFO] uvicorn.error: Started server process [40926]
+2025-02-05 21:39:18,712 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-05 21:39:18,713 [INFO] uvicorn.error: Application startup complete.
+2025-02-05 21:39:18,713 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-05 21:39:26,760 [INFO] uvicorn.access: 127.0.0.1:55014 - "GET / HTTP/1.1" 404
+2025-02-05 21:39:26,894 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-05 21:39:26,897 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-05 21:40:09,193 [INFO] uvicorn.error: Shutting down
+2025-02-05 21:40:09,294 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-05 21:40:09,295 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-05 21:40:09,295 [INFO] uvicorn.error: Finished server process [40926]
+2025-02-05 21:40:33,190 [INFO] uvicorn.error: Started server process [41161]
+2025-02-05 21:40:33,190 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-05 21:40:33,190 [INFO] uvicorn.error: Application startup complete.
+2025-02-05 21:40:33,191 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-05 21:40:48,248 [INFO] uvicorn.error: Shutting down
+2025-02-05 21:40:48,349 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-05 21:40:48,350 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-05 21:40:48,350 [INFO] uvicorn.error: Finished server process [41161]
+2025-02-05 21:40:55,280 [INFO] uvicorn.error: Started server process [41220]
+2025-02-05 21:40:55,280 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-05 21:40:55,281 [INFO] uvicorn.error: Application startup complete.
+2025-02-05 21:40:55,281 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-05 21:41:06,617 [INFO] uvicorn.error: Shutting down
+2025-02-05 21:41:06,718 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-05 21:41:06,718 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-05 21:41:06,718 [INFO] uvicorn.error: Finished server process [41220]
+2025-02-05 21:42:51,363 [INFO] uvicorn.error: Started server process [41363]
+2025-02-05 21:42:51,363 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-05 21:42:51,363 [INFO] uvicorn.error: Application startup complete.
+2025-02-05 21:42:51,364 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-05 21:43:00,662 [INFO] uvicorn.access: 127.0.0.1:49560 - "GET / HTTP/1.1" 404
+2025-02-05 21:43:00,746 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-05 21:43:00,747 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-05 21:43:08,427 [INFO] uvicorn.error: Shutting down
+2025-02-05 21:43:08,528 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-05 21:43:08,528 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-05 21:43:08,529 [INFO] uvicorn.error: Finished server process [41363]
+2025-02-05 21:44:41,175 [INFO] uvicorn.error: Started server process [41618]
+2025-02-05 21:44:41,176 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-05 21:44:41,176 [INFO] uvicorn.error: Application startup complete.
+2025-02-05 21:44:41,176 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-05 21:45:16,299 [INFO] uvicorn.error: Shutting down
+2025-02-05 21:45:16,400 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-05 21:45:16,400 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-05 21:45:16,400 [INFO] uvicorn.error: Finished server process [41618]
+2025-02-05 21:45:20,552 [INFO] uvicorn.error: Started server process [41867]
+2025-02-05 21:45:20,552 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-05 21:45:20,552 [INFO] uvicorn.error: Application startup complete.
+2025-02-05 21:45:20,552 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-05 21:46:29,283 [INFO] uvicorn.error: Shutting down
+2025-02-05 21:46:29,384 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-05 21:46:29,384 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-05 21:46:29,385 [INFO] uvicorn.error: Finished server process [41867]
+2025-02-07 00:17:58,915 [INFO] uvicorn.error: Started server process [54650]
+2025-02-07 00:17:58,915 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-07 00:17:58,915 [INFO] uvicorn.error: Application startup complete.
+2025-02-07 00:17:58,916 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-07 00:18:04,035 [INFO] uvicorn.access: 127.0.0.1:49022 - "GET / HTTP/1.1" 404
+2025-02-07 00:18:04,141 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-07 00:18:04,145 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-07 00:23:59,156 [INFO] uvicorn.error: Shutting down
+2025-02-07 00:23:59,262 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-07 00:23:59,265 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-07 00:23:59,266 [INFO] uvicorn.error: Finished server process [54650]
+2025-02-07 15:13:24,919 [INFO] uvicorn.error: Started server process [14081]
+2025-02-07 15:13:24,920 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-07 15:13:24,921 [INFO] uvicorn.error: Application startup complete.
+2025-02-07 15:13:24,924 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-07 15:13:29,243 [INFO] uvicorn.access: 127.0.0.1:54536 - "GET / HTTP/1.1" 404
+2025-02-07 15:13:29,291 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-07 15:13:29,292 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-07 15:13:35,983 [INFO] uvicorn.access: 127.0.0.1:54552 - "GET /docs HTTP/1.1" 200
+2025-02-07 15:13:38,704 [INFO] uvicorn.access: 127.0.0.1:54552 - "GET /openapi.json HTTP/1.1" 200
+2025-02-07 15:15:08,427 [INFO] uvicorn.error: Shutting down
+2025-02-07 15:15:08,528 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-07 15:15:08,528 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-07 15:15:08,529 [INFO] uvicorn.error: Finished server process [14081]
+2025-02-07 15:18:22,649 [INFO] uvicorn.error: Started server process [14913]
+2025-02-07 15:18:22,649 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-07 15:18:22,650 [INFO] uvicorn.error: Application startup complete.
+2025-02-07 15:18:22,652 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-07 15:18:25,410 [INFO] uvicorn.access: 127.0.0.1:48904 - "GET / HTTP/1.1" 404
+2025-02-07 15:18:25,452 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-07 15:18:25,453 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-07 15:18:32,865 [INFO] uvicorn.access: 127.0.0.1:38488 - "GET /docs HTTP/1.1" 200
+2025-02-07 15:18:33,289 [INFO] uvicorn.access: 127.0.0.1:38488 - "GET /openapi.json HTTP/1.1" 200
+2025-02-07 15:30:47,695 [INFO] uvicorn.access: 127.0.0.1:43964 - "GET /products HTTP/1.1" 200
+2025-02-07 15:31:13,739 [INFO] uvicorn.access: 127.0.0.1:34002 - "GET /products HTTP/1.1" 200
+2025-02-07 15:31:14,893 [INFO] uvicorn.access: 127.0.0.1:34002 - "GET /products HTTP/1.1" 200
+2025-02-07 15:31:18,836 [INFO] uvicorn.access: 127.0.0.1:34002 - "GET /products HTTP/1.1" 200
+2025-02-07 15:33:09,338 [INFO] uvicorn.access: 127.0.0.1:50002 - "POST /units HTTP/1.1" 201
+2025-02-07 15:34:03,621 [INFO] uvicorn.access: 127.0.0.1:59302 - "GET /units HTTP/1.1" 200
+2025-02-07 15:34:28,458 [INFO] uvicorn.access: 127.0.0.1:53942 - "GET /units/9cae12b2-7ecc-4ef4-a346-b8e6ee2a33f1 HTTP/1.1" 200
+2025-02-07 15:34:36,924 [INFO] uvicorn.access: 127.0.0.1:53948 - "GET /units/9cae12b2-7ecc-4ef4-a346-b8e6ee2a33 HTTP/1.1" 404
+2025-02-07 15:40:23,980 [INFO] uvicorn.error: Shutting down
+2025-02-07 15:40:24,081 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-07 15:40:24,081 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-07 15:40:24,081 [INFO] uvicorn.error: Finished server process [14913]
+2025-02-07 20:03:56,432 [INFO] uvicorn.error: Started server process [29557]
+2025-02-07 20:03:56,433 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-07 20:03:56,433 [INFO] uvicorn.error: Application startup complete.
+2025-02-07 20:03:56,436 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-07 20:04:00,993 [INFO] uvicorn.access: 127.0.0.1:55528 - "GET / HTTP/1.1" 404
+2025-02-07 20:04:01,112 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-07 20:04:01,113 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-07 20:04:13,372 [INFO] uvicorn.access: 127.0.0.1:54350 - "GET /docs HTTP/1.1" 200
+2025-02-07 20:04:13,813 [INFO] uvicorn.access: 127.0.0.1:54350 - "GET /openapi.json HTTP/1.1" 200
+2025-02-07 22:35:21,327 [INFO] uvicorn.error: Shutting down
+2025-02-07 22:35:21,447 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-07 22:35:21,459 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-07 22:35:21,460 [INFO] uvicorn.error: Finished server process [29557]
+2025-02-08 12:51:01,618 [INFO] uvicorn.error: Started server process [4023]
+2025-02-08 12:51:01,619 [INFO] uvicorn.error: Waiting for application startup.
+2025-02-08 12:51:01,619 [INFO] uvicorn.error: Application startup complete.
+2025-02-08 12:51:01,620 [INFO] uvicorn.error: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-02-08 12:51:07,522 [INFO] uvicorn.access: 127.0.0.1:40408 - "GET / HTTP/1.1" 404
+2025-02-08 12:51:07,968 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-08 12:51:07,969 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-08 12:51:13,586 [INFO] uvicorn.access: 127.0.0.1:40436 - "GET /docs HTTP/1.1" 200
+2025-02-08 12:51:13,905 [INFO] uvicorn.access: 127.0.0.1:40436 - "GET /openapi.json HTTP/1.1" 200
+2025-02-08 12:56:51,218 [INFO] uvicorn.access: 127.0.0.1:46132 - "GET / HTTP/1.1" 404
+2025-02-08 12:56:51,263 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-08 12:56:51,265 [WARNING] uvicorn.error: Invalid HTTP request received.
+2025-02-08 12:56:57,142 [INFO] uvicorn.access: 127.0.0.1:54558 - "GET /docs HTTP/1.1" 200
+2025-02-08 12:56:57,321 [INFO] uvicorn.access: 127.0.0.1:54558 - "GET /openapi.json HTTP/1.1" 200
+2025-02-08 12:57:16,252 [INFO] uvicorn.access: 127.0.0.1:42448 - "GET /units HTTP/1.1" 200
+2025-02-08 12:57:46,112 [INFO] uvicorn.access: 127.0.0.1:51316 - "POST /receipts HTTP/1.1" 201
+2025-02-08 12:58:14,267 [INFO] uvicorn.access: 127.0.0.1:41036 - "POST /products HTTP/1.1" 201
+2025-02-08 12:59:54,365 [INFO] uvicorn.access: 127.0.0.1:58302 - "GET /products HTTP/1.1" 200
+2025-02-08 13:00:11,380 [INFO] uvicorn.access: 127.0.0.1:57696 - "POST /receipts/c3365f90-e7a9-4e92-9f25-49ed406f6db9/products HTTP/1.1" 200
+2025-02-08 13:00:28,573 [INFO] uvicorn.access: 127.0.0.1:42154 - "POST /receipts/c3365f90-e7a9-4e92-9f25-49ed406f6db9/products HTTP/1.1" 404
+2025-02-08 13:01:03,918 [INFO] uvicorn.access: 127.0.0.1:53116 - "GET /sales HTTP/1.1" 200
+2025-02-08 13:01:59,596 [INFO] uvicorn.access: 127.0.0.1:50318 - "PATCH /receipts/c3365f90-e7a9-4e92-9f25-49ed406f6db9 HTTP/1.1" 200
+2025-02-08 13:02:16,822 [INFO] uvicorn.access: 127.0.0.1:36930 - "GET /sales HTTP/1.1" 200
+2025-02-08 13:02:34,486 [INFO] uvicorn.access: 127.0.0.1:38748 - "PATCH /receipts/c3365f90-e7a9-4e92-9f25-49ed406f6db9 HTTP/1.1" 404
+2025-02-08 13:03:00,797 [INFO] uvicorn.access: 127.0.0.1:42582 - "GET /units/9cae12b2-7ecc-4ef4-a346-b8e6ee2a33f1 HTTP/1.1" 200
+2025-02-08 13:03:05,872 [INFO] uvicorn.access: 127.0.0.1:53164 - "GET /units/9cae12b2-7ecc-4ef4-a346-b8e6ee2a33 HTTP/1.1" 404
+2025-02-08 13:03:34,269 [INFO] uvicorn.access: 127.0.0.1:46958 - "DELETE /receipts/c3365f90-e7a9-4e92-9f25-49ed406f6db9 HTTP/1.1" 404
+2025-02-08 13:04:33,736 [INFO] uvicorn.access: 127.0.0.1:34756 - "GET /sales HTTP/1.1" 200
+2025-02-08 13:04:47,604 [INFO] uvicorn.error: Shutting down
+2025-02-08 13:04:47,705 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-02-08 13:04:47,705 [INFO] uvicorn.error: Application shutdown complete.
+2025-02-08 13:04:47,706 [INFO] uvicorn.error: Finished server process [4023]
